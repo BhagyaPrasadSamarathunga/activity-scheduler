@@ -5,11 +5,15 @@ This app has capability of scheduling activities and search and view the current
 ## How To Run this app
 
 ## Setup
+```
   npm install
+```
 ## To run the project
+```
   npx json-server -p 3500 -w data/db.json
+```
   npm start
-
+```
 ## App Improvements
 * Support for the localisation.
 * Add Unit testing.
